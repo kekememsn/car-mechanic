@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/asset_free_Ukraine_road_roadsign_cars/scenes/demo_road_scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
